@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Askhay Goregaonkar
 - 👀 I’m interested in  React JS, python and Django
-- 🌱 I’m currently learning python and Django
+- 🌱 I’m currently learning Django
 
 - 📫 How to reach me akshaygoregaonkar@gmail.com
 
