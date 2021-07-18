@@ -1,8 +1,10 @@
 - 👋 Hi, I’m Askhay Goregaonkar
-- 👀 I’m interested in  React JS, python and Django
-- 🌱 I’m currently learning Django
+- 👀 I am Aspiring Software Engineer and my Interest lies towards React js,python and Django and Building Scalable Application Using these Technology.
+- Currently I'm Working in crelioHealth(Formally LiveHealth) Pune as Jr.Software Engineer.
+- 🌱 I’m currently learning Node Js and Express Js.
 
 - 📫 How to reach me akshaygoregaonkar@gmail.com
+- linkedin.com/in/akshay-goregaonkar
 
 <!---
 akshaygoregaonkar/akshaygoregaonkar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
