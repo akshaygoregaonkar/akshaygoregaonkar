@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Askhay Goregaonkar
 - 👀 I am Aspiring Software Engineer and my Interest lies towards React js,python and Django and Building Scalable Application Using these Technology.
 - Currently I'm Working in crelioHealth(Formally LiveHealth) Pune as Jr.Software Engineer.
-- 🌱 I’m currently learning Node Js and Express Js.
+- 🌱 I’m currently learning Node and Express Js.
 
 - 📫 How to reach me akshaygoregaonkar@gmail.com
 - linkedin.com/in/akshay-goregaonkar
